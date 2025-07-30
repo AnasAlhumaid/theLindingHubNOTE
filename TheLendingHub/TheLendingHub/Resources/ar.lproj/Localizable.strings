@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  TheLendingHub
+
+  Created by Anas Hamad on 29/07/2025.
+  
+*/
+
+"Add Note" = "إضافة ملاحظة";
+"+ ADD NOTE" = "+ آضف ملاحظة";
+"Enter note ...." = "...أدخل الملاحظة";
+"note_required" = "يجب ألا تكون الملاحظة فارغة";
+"note_saved" = "تم حفظ الملاحظة بنجاح";
+"note_deleted" = "تم حذف الملاحظة";
+"confirm_delete" = "هل أنت متأكد أنك تريد حذف هذه الملاحظة؟";
+"Cancel" = "إلغاء";
+"Delete" = "حذف";
+"Update" = "تحديث";
+"notes" = "الملاحظات";
+"no_notes" = "لا توجد ملاحظات";
+"My Notes" = "ملاحضاتي";
+"Date:" = "التاريخ";
+"Time:" = "الوقت";
+"Loading time..." = "جاري التحميل ...";
+"chevron.left" = "chevron.right";
+"chevron.right" = "chevron.left";
+"are you sure you want to delete this note?" = "هل تريد حذف هذة الملاحضة؟";
+"Edit" = "تعديل";
+"Home" = "الرئيسية";
+"⚙️ Settings" = "الاعدادات⚙️";
